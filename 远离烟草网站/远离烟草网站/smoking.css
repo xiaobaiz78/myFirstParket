@@ -1,0 +1,40 @@
+/* CSS Document */
+*{ margin:0; padding:0;}
+body{ font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; background:#666666;}
+.bg1{ background:#FFFFFF; width:880px; margin:2px auto; height:auto;}
+.bg2{ background:#FFFFFF; width:880px; margin:2px auto; height:960px;}
+.bg3{ background:#FFFFFF; width:880px; margin:2px auto; height:1420px;}
+.head{ width:845px; height:152px; border:1px solid #cbcbcb; margin:0 auto; margin-top:4px;}
+.logo{}
+.nav{ width:845px; height:30px;margin:0 auto;border:1px solid #666666; margin-top:4px; background:#666666; font-family:"宋体"; font-size:14px;}
+.left{ width:633px;border:1px solid #cbcbcb; float:left; margin-top:4px;}
+.right{ width:210px; float:right; margin-top:4px; font: "幼圆", "方正姚体"; font-size:13px; word-spacing:18px; text-indent:20px; line-height:24px;}
+.kz{ width:848px; margin:0 auto; margin-top:4px;}
+.liebiao{ width:204px; border:1px solid #cbcbcb; padding:2px;}
+.liebiao1{ width:204px; border-top:1px dashed #cbcbcb; padding:2px;}
+.xiaodian{ list-style:none;}
+.foot{ width:829px; border:1px solid #cbcbcb;  margin:0 auto; float: left; margin-top:4px; padding:8px; height:40px; text-align:center; line-height:22px;}
+.nav1{ list-style:none;}
+.nav1 li { float:left;}
+.nav1 li a { padding:6px 32px; display:block; background:#666; color:#FFFFFF; text-decoration:none; border-bottom: 3px solid #666;}
+.nav1 li a:hover { color:#CCCCCC; background:#999; border-bottom: 3px solid #006699;}
+.images { width:845px; height:132px; margin: 2px auto; border:1px solid #cbcbcb; }
+.content { margin:14px; font: "幼圆", "方正姚体"; font-size:15px; word-spacing:18px; text-indent:30px; line-height:30px;}
+.daohang{ width:839px; height:20px; border:1px solid #cbcbcb; float:left; padding:10px 0; padding-left:6px; font:"幼圆", "方正姚体", "新宋体"; font-size:14px;}
+.daohang a { text-decoration:none; color:#666699;}
+.daohang a:hover{ text-decoration:underline; color:#006699;}
+.left1{ width:843px;border:1px solid #cbcbcb; float:left; margin-top:4px;}
+.wzliebiao{  line-height:30px; font:"幼圆", "方正姚体", "新宋体"; font-size:16px; padding-top:20px; padding-left:20px; }
+.wzlb{ list-style:none;}
+.wzliebiao a{ text-decoration:none;}
+.wenzhang{ width:815px;border:1px solid #cbcbcb; float:left; margin-top:4px; padding:14px; font:"幼圆", "方正姚体", "新宋体"; font-size:18px; line-height:30px;  text-indent:30px;}
+#h2{ font:"幼圆", "方正姚体", "新宋体"; font-size:24px; text-align:center; font-weight:bold;}
+li{ list-style:none;}
+img{ border:0;}
+.photo{ width:835px;border:1px solid #cbcbcb; float:left; margin-top:4px; padding:5px;font:"幼圆", "方正姚体", "新宋体"; font-size:14px;}
+.photo1{ width:835px;border:1px solid #cbcbcb; float:left; margin-top:4px; padding:12px;font:"幼圆", "方正姚体", "新宋体"; font-size:14px;}
+.photo li{ width:240px; height:240px; background:url(images/photo_a_bg.gif) no-repeat; float:left; padding:16px;}
+.photo li:hover{ background:url(images/photo_b_bg.gif) no-repeat;}
+.photo li h2{ font-size:12px; font-weight:normal; text-transform:capitalize; padding-top:2px;}
+.photo1 h2{ font-size:16px; padding-top:6px;}
+.photo li span{ font-size:12px; float:right;}
