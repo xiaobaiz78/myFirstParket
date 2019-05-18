@@ -19,15 +19,15 @@
 .logo_box{
 	width: 400px;
 	height: 500px;
-	padding: 35px;
+	padding: 150px;
 	color: #EEE;
-	position: absolute;
+	position:relative;
 	left: 50%;
 	top:100%;
-	margin-left: -200px;
+	margin-left: -350px;
 	margin-top: -250px;
 }
-.logo_box h3{
+/*.logo_box h3{
 	text-align: center;
 	height: 20px;
 	font: 20px "微软雅黑",Helvetica,Tahoma,Arial,"微软雅黑",sans-serif;
@@ -35,17 +35,17 @@
 	height: 20px;
 	line-height: 20px;
 	padding:0 0 35px 0; 
-}
-.forms{
+}*/
+/*.forms{
 	width: 280px;
 	height: 485px;
-}
-.logon_inof{
+}*/
+/*.logon_inof{
 	width: 100%;
 	min-height: 450px;
 	padding-top: 35px;
 	position: relative;
-}		
+}		*/
 .input_outer{
 	height: 46px;
 	padding: 0 5px;
@@ -54,31 +54,31 @@
 	position: relative;
 	border: rgba(255,255,255,0.2) 2px solid !important;
 }
-.u_user{
+/*.u_user{
 	width: 25px;
 	height: 25px;
 	background: url(../images/login_ico.png);
 	background-position:  -125px 0;
 	position: absolute;
 	margin: 10px 13px;
-}
-.u_msg{
+}*/
+/*.u_msg{
 	width: 25px;
 	height: 25px;
 	background: url(../images/login_ico.png);
 	background-position:  -85px 0;
 	position: absolute;
 	margin: 10px 13px;
-}
-.us_uer{
+}*/
+/*.us_uer{
 	width: 25px;
 	height: 25px;
 	background-image: url(../images/login_ico.png);
 	background-position: -125px -34px;
 	position: absolute;
 	margin: 10px 13px;
-}
-.l-login{
+}*/
+/*.l-login{
 	position: absolute;
 	z-index: 1;
 	left: 50px;
@@ -86,7 +86,7 @@
 	height: 46px;
 	font: 14px "microsoft yahei",Helvetica,Tahoma,Arial,"Microsoft jhengHei";
 	line-height: 46px;
-}
+}*/
 .text{
 	width: 220px;
 	height: 46px;
@@ -99,13 +99,13 @@
 	line-height: 46px;
 }
 /*///*/
-.mb2{
+/*.mb2{
 	margin-bottom: 20px
-}
-.mb2 a{
+}*/
+/*.mb2 a{
 	text-decoration: none;
 	outline: none;
-}
+}*/
 .submit {
 	padding: 15px;
 	margin-top: 20px;
